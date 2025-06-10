@@ -1,0 +1,11 @@
+FoodPrice Taco 7
+FoodPrice Steak 15
+FoodPrice Burger 6
+FoodQuantity Burger 5
+FoodQuantity Curry 4
+FoodPrice FrenchFries 4
+FoodPrice Noodles 6
+FoodQuantity Pasta 6
+FoodPrice Sushi 12
+FoodPrice Salad 5
+

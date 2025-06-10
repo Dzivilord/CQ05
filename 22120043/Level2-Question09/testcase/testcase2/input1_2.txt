@@ -1,0 +1,11 @@
+FoodQuantity Soup 5
+FoodQuantity Sushi 4
+FoodPrice Pizza 8
+FoodQuantity IceCream 7
+FoodPrice Curry 9
+FoodQuantity Taco 2
+FoodPrice Pasta 10
+FoodQuantity Cake 2
+FoodQuantity Pizza 3
+FoodQuantity Salad 3
+
