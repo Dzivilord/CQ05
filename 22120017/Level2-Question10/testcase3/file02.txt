@@ -1,0 +1,9 @@
+FoodQuantity Apple 10
+FoodQuantity Orange 15
+FoodQuantity Banana 12
+FoodQuantity Grape 7
+FoodQuantity Kiwi 6
+FoodQuantity Mango 8
+FoodQuantity Pineapple 3
+FoodQuantity Papaya 2
+FoodQuantity Lemon 5

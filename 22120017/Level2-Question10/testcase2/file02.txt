@@ -1,0 +1,7 @@
+FoodQuantity Pho 10
+FoodQuantity BanhMi 12
+FoodQuantity BunCha 8
+FoodQuantity NemRan 6
+FoodQuantity BanhXeo 4
+FoodQuantity MiQuang 3
+FoodQuantity HuTieu 7

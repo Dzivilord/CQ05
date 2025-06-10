@@ -1,0 +1,5 @@
+t06	eggs
+t07	apples
+t08	lettuce
+t09	tomato
+t10	apples

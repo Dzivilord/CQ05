@@ -1,0 +1,4 @@
+t01	milk
+t02	bread
+t03	butter
+t04	milk

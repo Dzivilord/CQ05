@@ -1,0 +1,6 @@
+FoodPrice Pizza 10
+FoodQuantity Pasta 2
+FoodPrice Burger 7
+FoodPrice Sandwich 5
+FoodQuantity Noodles 7
+FoodQuantity Sushi 1

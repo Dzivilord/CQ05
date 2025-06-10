@@ -1,0 +1,4 @@
+t01	pen pencil
+t02	pen eraser
+t03	pencil eraser
+t04	pen pencil eraser

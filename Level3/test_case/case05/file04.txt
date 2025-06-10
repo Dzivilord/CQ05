@@ -1,0 +1,5 @@
+t16	apple lemon
+t17	orange lemon
+t18	grape lemon
+t19	apple orange lemon
+t20	orange lemon

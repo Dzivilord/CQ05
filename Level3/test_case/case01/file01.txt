@@ -1,0 +1,4 @@
+t01	apples bananas
+t02	bananas milk
+t03	apples milk
+t04	apples bananas milk

@@ -1,0 +1,17 @@
+FoodPrice BanhMi 6
+FoodQuantity BanhMi 4
+FoodPrice Pho 9
+FoodQuantity SpringRolls 5
+FoodPrice Dumplings 8
+FoodQuantity Dumplings 6
+FoodPrice Curry 10
+FoodQuantity Burrito 3
+FoodPrice Falafel 7
+FoodQuantity Tempura 1
+FoodPrice Bibimbap 10
+FoodQuantity Shawarma 6
+FoodPrice Croissant 5
+FoodQuantity Udon 3
+FoodPrice PadThai 9
+FoodQuantity Croissant 7
+FoodPrice Kimchi 4

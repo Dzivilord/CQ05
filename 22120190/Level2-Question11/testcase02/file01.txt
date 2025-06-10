@@ -1,0 +1,9 @@
+FoodQuantity Noodles 7
+FoodPrice Ramen 8
+FoodPrice Donut 3
+FoodPrice IceCream 6
+FoodQuantity Ramen 4
+FoodQuantity Kebab 2
+FoodPrice Noodles 6
+FoodPrice Sushi 12
+FoodPrice Steak 15

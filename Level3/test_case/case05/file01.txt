@@ -1,0 +1,5 @@
+t01	apple orange
+t02	apple grape
+t03	orange grape
+t04	apple orange grape
+t05	apple grape

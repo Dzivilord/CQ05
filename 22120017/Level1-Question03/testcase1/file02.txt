@@ -1,0 +1,5 @@
+t06	potato chips
+t07	chicken wings
+t08	eggs
+t09	milk bottle
+t10	soda

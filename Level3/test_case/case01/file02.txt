@@ -1,0 +1,4 @@
+t05	apples bananas
+t06	bananas bread
+t07	apples bread
+t08	apples bananas bread
