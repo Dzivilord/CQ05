@@ -1,0 +1,5 @@
+FoodQuantity Pizza 3
+FoodQuantity Burger 5
+FoodQuantity Cake 2
+FoodQuantity Pasta 7
+FoodQuantity Sushi 1

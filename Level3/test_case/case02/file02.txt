@@ -1,0 +1,4 @@
+t05	cat dog
+t06	dog bird
+t07	cat bird
+t08	cat dog bird

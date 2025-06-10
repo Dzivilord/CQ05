@@ -1,0 +1,5 @@
+t11	eggs
+t12	chicken wings
+t13	milk bottle
+t14	soda
+t15	bread

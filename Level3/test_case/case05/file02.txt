@@ -1,0 +1,5 @@
+t06	apple banana
+t07	orange banana
+t08	grape banana
+t09	apple orange banana
+t10	orange banana

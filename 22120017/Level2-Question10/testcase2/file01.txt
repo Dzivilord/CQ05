@@ -1,0 +1,6 @@
+FoodPrice Pho 30
+FoodPrice BanhMi 15
+FoodPrice BunCha 25
+FoodPrice ComTam 22
+FoodPrice NemRan 10
+FoodPrice MiQuang 18

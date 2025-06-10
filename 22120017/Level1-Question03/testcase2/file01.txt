@@ -1,0 +1,5 @@
+t01	apples
+t02	eggs
+t03	bananas
+t04	apples
+t05	bananas

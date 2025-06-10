@@ -1,0 +1,5 @@
+FoodPrice Pizza 8
+FoodPrice Burger 6
+FoodPrice FrenchFries 4
+FoodPrice Pasta 12
+FoodPrice Sushi 20

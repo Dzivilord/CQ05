@@ -1,0 +1,5 @@
+t11	apples
+t12	lettuce
+t13	bananas
+t14	eggs
+t15	tomato

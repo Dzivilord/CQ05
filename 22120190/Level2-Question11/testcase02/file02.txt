@@ -1,0 +1,9 @@
+FoodQuantity Donut 6
+FoodQuantity IceCream 7
+FoodPrice Hotdog 5
+FoodQuantity Hotdog 3
+FoodPrice Kebab 9
+FoodQuantity Sushi 1
+FoodQuantity Steak 2
+FoodQuantity Salad 3
+FoodQuantity Tacos 5

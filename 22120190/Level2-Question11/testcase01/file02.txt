@@ -1,0 +1,6 @@
+FoodQuantity Burger 5
+FoodPrice Sushi 12
+FoodPrice Steak 15
+FoodQuantity Sandwich 4
+FoodQuantity Fries 6
+FoodPrice Salad 5

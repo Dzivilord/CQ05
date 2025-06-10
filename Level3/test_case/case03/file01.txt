@@ -1,0 +1,4 @@
+t01	red blue
+t02	blue yellow
+t03	red yellow
+t04	red blue yellow

@@ -1,0 +1,15 @@
+FoodQuantity Bibimbap 4
+FoodPrice Gyoza 6
+FoodQuantity Gyoza 5
+FoodPrice Udon 8
+FoodQuantity Pho 3
+FoodPrice SpringRolls 7
+FoodQuantity PadThai 4
+FoodPrice TacoRice 10
+FoodQuantity TacoRice 2
+FoodPrice Shawarma 11
+FoodQuantity Curry 2
+FoodPrice Burrito 11
+FoodQuantity Falafel 2
+FoodPrice Tempura 9
+FoodQuantity Kimchi 8

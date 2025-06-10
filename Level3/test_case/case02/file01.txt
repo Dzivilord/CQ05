@@ -1,0 +1,4 @@
+t01	cat dog
+t02	dog fish
+t03	cat fish
+t04	cat dog fish

@@ -1,0 +1,22 @@
+t03	milk bottle
+t02	potato chips
+t05	chicken wings
+t01	eggs
+t04	potato chips*
+t02	fried rice
+t03	squid steak
+t05	milk bottle
+t01	chicken wings
+t04	eggs
+t03	fried rice
+t02	banana bread
+t01	potato chips
+t05	squid steak*
+t03	eggs
+t02	milk bottle*
+t04	chicken wings
+t01	banana bread
+t05	eggs*
+t02	potato chips
+t03	chicken wings
+t04	fried rice

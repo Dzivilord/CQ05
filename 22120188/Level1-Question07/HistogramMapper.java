@@ -6,23 +6,36 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 public class HistogramMapper extends Mapper<LongWritable, Text, IntWritable, IntWritable> {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c44f54b21e13924bf0d05f751f8fd7911e8c9ea9
     private final static IntWritable one = new IntWritable(1);
     private IntWritable pixelValue = new IntWritable();
 
     @Override
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
+<<<<<<< HEAD
         // Xoá các khoảng trống đầu cuối 
         String line = value.toString().trim();
         if (line.isEmpty()) return;
 
         // Tách từng ra mảng pixel  
+=======
+        String line = value.toString().trim();
+        if (line.isEmpty()) return;
+
+>>>>>>> c44f54b21e13924bf0d05f751f8fd7911e8c9ea9
         String[] pixels = line.split("\\s+");
         for (String p : pixels) {
             try {
                 int val = Integer.parseInt(p);
                 pixelValue.set(val);
+<<<<<<< HEAD
                 context.write(pixelValue, one);  // Thu được một cặp {key,value}
+=======
+                context.write(pixelValue, one);
+>>>>>>> c44f54b21e13924bf0d05f751f8fd7911e8c9ea9
             } catch (NumberFormatException e) {
                 // Bỏ qua nếu không phải số
             }

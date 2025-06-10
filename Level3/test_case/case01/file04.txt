@@ -1,0 +1,4 @@
+t13	bananas bread
+t14	apples bread
+t15	bananas milk
+t16	apples bananas bread

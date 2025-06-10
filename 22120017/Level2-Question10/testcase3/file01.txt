@@ -1,0 +1,7 @@
+FoodPrice Apple 2
+FoodPrice Orange 3
+FoodPrice Banana 1
+FoodPrice Grape 4
+FoodPrice Kiwi 5
+FoodPrice Mango 6
+FoodPrice Pineapple 7

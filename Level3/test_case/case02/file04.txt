@@ -1,0 +1,4 @@
+t13	dog bird
+t14	cat bird
+t15	dog fish
+t16	cat dog bird
