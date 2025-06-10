@@ -1,0 +1,23 @@
+
+1. Tạo classes
+export HADOOP_CLASSPATH=$(hadoop classpath)
+javac -classpath ${HADOOP_CLASSPATH} -d Order_classes OrderMapper.java OrderReducer.java OrderDriver.java
+
+2. Tạo file Jar
+jar -cvf Order.jar -C Order_classes/ .
+
+3. Chạy chương trình hadoop
+
+hadoop jar Order.jar OrderDriver Order/test_case/case01 Order/output/case01
+
+4. Put file input lên hdfs
+
+hdfs dfs -put test_case Order/test_case
+
+5. Kiểm tra file 
+hdfs dfs -cat  Order/output/case01/part-r-00000
+
+6. Xoá file output
+hdfs dfs -rm -r Order/output/case01
+
+7. Mang file hiện tại

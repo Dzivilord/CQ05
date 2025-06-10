@@ -1,0 +1,10 @@
+FoodQuantity Watermelon 1
+FoodPrice Lettuce 4
+FoodQuantity Lettuce 5
+FoodPrice Cereal 6
+FoodQuantity Cereal 2
+FoodPrice Soup 7
+FoodQuantity Soup 1
+FoodPrice Tomato 3
+FoodQuantity Tomato 5
+FoodQuantity Cucumber 3

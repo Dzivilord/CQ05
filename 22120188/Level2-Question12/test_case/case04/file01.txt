@@ -1,0 +1,10 @@
+FoodQuantity Apple 8
+FoodPrice Banana 5
+FoodQuantity Pizza 2
+FoodPrice Egg 1
+FoodPrice Noodles 5
+FoodQuantity Sandwich 3
+FoodPrice Sushi 10
+FoodQuantity Noodles 4
+FoodQuantity Burger 6
+FoodPrice Watermelon 12

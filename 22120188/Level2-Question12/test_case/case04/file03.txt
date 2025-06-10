@@ -1,0 +1,10 @@
+FoodPrice Apple 3
+FoodQuantity Banana 6
+FoodQuantity Orange 4
+FoodPrice Donut 2
+FoodPrice Milk 6
+FoodQuantity Bread 5
+FoodPrice Sandwich 7
+FoodQuantity Donut 3
+FoodPrice IceCream 4
+FoodQuantity IceCream 2

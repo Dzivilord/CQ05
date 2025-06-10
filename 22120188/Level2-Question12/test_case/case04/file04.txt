@@ -1,0 +1,10 @@
+FoodPrice Burger 6
+FoodQuantity Cake 2
+FoodPrice Cucumber 2
+FoodPrice Spinach 5
+FoodQuantity Spinach 1
+FoodQuantity Fish 3
+FoodPrice Fish 9
+FoodPrice Steak 15
+FoodQuantity Steak 2
+FoodQuantity Fries 6

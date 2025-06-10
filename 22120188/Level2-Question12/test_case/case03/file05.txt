@@ -1,0 +1,7 @@
+FoodQuantity Octopus 4
+FoodPrice CrabStick 5
+FoodQuantity CrabStick 2
+FoodPrice SeaUrchin 20
+FoodQuantity SeaBass 3
+FoodQuantity SeaUrchin 1
+FoodPrice SeaBass 17

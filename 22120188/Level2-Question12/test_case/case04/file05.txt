@@ -1,0 +1,10 @@
+FoodPrice Orange 4
+FoodQuantity Egg 10
+FoodPrice Cake 9
+FoodQuantity Rice 7
+FoodPrice Bread 3
+FoodQuantity Chicken 6
+FoodPrice Chicken 8
+FoodPrice Rice 2
+FoodQuantity Milk 3
+FoodPrice Pizza 11

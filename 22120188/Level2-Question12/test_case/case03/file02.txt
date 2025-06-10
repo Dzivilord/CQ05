@@ -1,0 +1,7 @@
+FoodQuantity Salmon 2
+FoodPrice Crab 11
+FoodQuantity Tuna 6
+FoodPrice Lobster 15
+FoodPrice Prawn 8
+FoodQuantity Oyster 2
+FoodQuantity Squid 3

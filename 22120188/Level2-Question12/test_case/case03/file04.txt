@@ -1,0 +1,7 @@
+FoodPrice Tuna 14
+FoodQuantity Clam 7
+FoodPrice Scallop 10
+FoodQuantity Mussel 4
+FoodQuantity Swordfish 1
+FoodPrice Eel 13
+FoodQuantity Prawn 5

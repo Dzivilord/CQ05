@@ -17,7 +17,7 @@ public class HistogramDriver {
         job.setJarByClass(HistogramDriver.class);
 
         job.setMapperClass(HistogramMapper.class);
-        job.setCombinerClass(HistogramReducer.class);  // Combiner để giảm data transfer
+        job.setCombinerClass(HistogramReducer.class);  // Combiner để minimal data transfer từ mapper sang reducer
         job.setReducerClass(HistogramReducer.class);
 
         job.setOutputKeyClass(IntWritable.class);

@@ -1,0 +1,7 @@
+FoodPrice Octopus 16
+FoodQuantity Eel 6
+FoodQuantity Scallop 2
+FoodPrice Shrimp 9
+FoodPrice Swordfish 18
+FoodQuantity Anchovy 3
+FoodPrice Anchovy 4

@@ -1,0 +1,7 @@
+FoodPrice Salmon 12
+FoodQuantity Crab 5
+FoodQuantity Lobster 3
+FoodPrice Oyster 9
+FoodPrice Clam 7
+FoodQuantity Shrimp 4
+FoodPrice Mussel 6

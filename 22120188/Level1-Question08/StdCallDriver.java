@@ -20,6 +20,9 @@ public class StdCallDriver {
 
         job.setJarByClass(StdCallDriver.class);
         job.setMapperClass(StdCallMapper.class);
+        
+        // Bổ sung combiner để giảm số lượng dữ liệu truyền giữa mapper và reducer
+        job.setCombinerClass(StdCallReducer.class); 
         job.setReducerClass(StdCallReducer.class);
 
         job.setMapOutputKeyClass(Text.class);

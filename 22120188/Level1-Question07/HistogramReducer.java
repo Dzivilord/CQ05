@@ -8,24 +8,26 @@ import org.apache.hadoop.mapreduce.Reducer;
 public class HistogramReducer extends Reducer<IntWritable, IntWritable, IntWritable, IntWritable> {
 
     private Map<Integer, Integer> countMap = new HashMap<>();
-    private int maxPixelValue = 0;
+    private int maxPixelValue = Integer.MIN_VALUE;
 
-    @Override
-    protected void setup(Context context) {
-        // Đọc giá trị N (pixel tối đa) từ cấu hình nếu cần
-        maxPixelValue = context.getConfiguration().getInt("max.pixel.value", 255); // mặc định là 255
-    }
-
+    // Tính tổng tần suất
     @Override
     public void reduce(IntWritable key, Iterable<IntWritable> values, Context context)
             throws IOException, InterruptedException {
+        int pixel = key.get();
         int sum = 0;
         for (IntWritable v : values) {
             sum += v.get();
         }
-        countMap.put(key.get(), sum);
+        countMap.put(pixel, sum);
+
+        // Cập nhật giá trị pixel lớn nhất gặp được
+        if (pixel > maxPixelValue) {
+            maxPixelValue = pixel;
+        }
     }
 
+    // Những pixel không xuất hiện cũng được thể hiện tần suất (từ 0 đến max pixel value)
     @Override
     protected void cleanup(Context context) throws IOException, InterruptedException {
         IntWritable outKey = new IntWritable();
