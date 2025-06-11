@@ -1,4 +1,4 @@
-t09	red yellow
-t10	blue yellow
-t11	red blue yellow
-t12	blue yellow green
+t09	pen marker eraser pencil
+t10	eraser pen pencil marker
+t11	pencil eraser marker pen
+t12	marker pen pencil eraser

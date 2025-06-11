@@ -1,4 +1,4 @@
-t01	red blue
-t02	blue yellow
-t03	red yellow
-t04	red blue yellow
+t01	pencil eraser ruler pen marker
+t02	ruler pen eraser pencil marker
+t03	pen marker pencil eraser
+t04	eraser pencil pen marker

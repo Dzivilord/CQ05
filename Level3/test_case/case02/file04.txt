@@ -1,4 +1,4 @@
-t13	dog bird
-t14	cat bird
-t15	dog fish
-t16	cat dog bird
+t13	eggs milk cheese bread
+t14	bread cheese eggs butter
+t15	milk bread eggs cheese
+t16	butter cheese milk eggs

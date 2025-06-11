@@ -1,5 +1,5 @@
-t11	apple cherry
-t12	orange cherry
-t13	grape cherry
-t14	apple orange cherry
-t15	orange cherry
+t11	tomato lettuce onion carrot cucumber
+t12	lettuce tomato carrot cucumber onion
+t13	onion carrot cucumber lettuce tomato
+t14	carrot lettuce tomato onion cucumber
+t15	cucumber tomato lettuce onion carrot

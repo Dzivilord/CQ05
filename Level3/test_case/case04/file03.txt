@@ -1,4 +1,5 @@
-t09	pen notebook
-t10	pencil notebook
-t11	eraser notebook
-t12	pen pencil notebook
+t11	fries burger pizza chips coke
+t12	pizza fries chips burger coke
+t13	chips pizza fries burger coke
+t14	coke pizza fries chips burger
+t15	pizza chips fries burger coke

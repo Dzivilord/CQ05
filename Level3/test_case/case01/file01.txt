@@ -1,4 +1,4 @@
-t01	apples bananas
-t02	bananas milk
-t03	apples milk
-t04	apples bananas milk
+t01	apples oranges bananas pears grapes
+t02	bananas pears grapes apples oranges
+t03	apples bananas grapes pears
+t04	oranges apples pears bananas

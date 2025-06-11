@@ -1,4 +1,4 @@
-t13	blue green
-t14	red green
-t15	blue yellow
-t16	red blue green
+t13	eraser pen marker pencil
+t14	pencil marker pen eraser
+t15	pen eraser pencil marker
+t16	marker pencil eraser pen

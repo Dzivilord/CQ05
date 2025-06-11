@@ -1,4 +1,5 @@
-t01	pen pencil
-t02	pen eraser
-t03	pencil eraser
-t04	pen pencil eraser
+t01	coke chips pizza burger fries
+t02	pizza burger coke chips fries
+t03	burger fries coke pizza chips
+t04	fries pizza burger coke chips
+t05	chips pizza fries burger coke

@@ -1,4 +1,4 @@
-t13	bananas bread
-t14	apples bread
-t15	bananas milk
-t16	apples bananas bread
+t13	apples bananas pears grapes
+t14	bananas grapes apples pears
+t15	pears bananas apples grapes
+t16	apples grapes bananas pears

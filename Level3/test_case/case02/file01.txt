@@ -1,4 +1,4 @@
-t01	cat dog
-t02	dog fish
-t03	cat fish
-t04	cat dog fish
+t01	milk bread butter eggs cheese
+t02	bread butter cheese milk eggs
+t03	butter eggs cheese bread
+t04	milk eggs bread cheese

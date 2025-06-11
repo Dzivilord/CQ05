@@ -1,5 +1,5 @@
-t01	apple orange
-t02	apple grape
-t03	orange grape
-t04	apple orange grape
-t05	apple grape
+t01	tomato lettuce onion carrot cucumber
+t02	lettuce onion carrot cucumber tomato
+t03	onion carrot cucumber lettuce tomato
+t04	carrot lettuce tomato onion cucumber
+t05	cucumber tomato lettuce onion carrot

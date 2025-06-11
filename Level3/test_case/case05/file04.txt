@@ -1,5 +1,5 @@
-t16	apple lemon
-t17	orange lemon
-t18	grape lemon
-t19	apple orange lemon
-t20	orange lemon
+t16	tomato lettuce onion carrot cucumber
+t17	lettuce onion carrot cucumber tomato
+t18	onion carrot cucumber lettuce tomato
+t19	carrot lettuce tomato onion cucumber
+t20	cucumber tomato lettuce onion carrot

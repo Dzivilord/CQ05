@@ -1,4 +1,4 @@
-t05	apples bananas
-t06	bananas bread
-t07	apples bread
-t08	apples bananas bread
+t05	bananas pears apples grapes
+t06	grapes bananas oranges pears
+t07	oranges pears bananas apples
+t08	apples pears bananas grapes

@@ -1,4 +1,4 @@
-t05	red blue
-t06	blue green
-t07	red green
-t08	red blue green
+t05	marker pencil pen eraser
+t06	pen eraser marker pencil
+t07	pencil pen marker eraser
+t08	eraser marker pencil pen
