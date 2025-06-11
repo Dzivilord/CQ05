@@ -6,6 +6,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 public class HistogramMapper extends Mapper<LongWritable, Text, IntWritable, IntWritable> {
 
+
     private final static IntWritable one = new IntWritable(1);
     private IntWritable pixelValue = new IntWritable();
 

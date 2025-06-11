@@ -1,7 +1,7 @@
 
 1. Tạo classes
 export HADOOP_CLASSPATH=$(hadoop classpath)
-javac -classpath ${HADOOP_CLASSPATH} -d Order_classes OrderMapper.java OrderReducer.java OrderDriver.java
+javac -classpath ${HADOOP_CLASSPATH} -d Order_classes OrderMapper.java OrderReducer.java OrderCombiner OrderDriver.java
 
 2. Tạo file Jar
 jar -cvf Order.jar -C Order_classes/ .

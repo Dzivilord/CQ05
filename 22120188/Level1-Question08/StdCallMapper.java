@@ -18,6 +18,8 @@ public class StdCallMapper extends Mapper<LongWritable, Text, Text, IntWritable>
     @Override
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         try {
+            // FromPhoneNumber|ToPhoneNumber|CallStartTime|CallEndTime|STDFlag 
+            // 9665128505|8983006310|2015-03-01 07:08:10|2015-03-01 08:12:15|0
             String[] parts = value.toString().split("\\|");
             if (parts.length != 5) return;
 

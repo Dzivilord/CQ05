@@ -5,6 +5,7 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.*;
 import org.apache.hadoop.mapreduce.lib.output.*;
 
+
 public class OrderDriver {
     public static void main(String[] args) throws Exception {
         if (args.length != 2) {
@@ -17,6 +18,7 @@ public class OrderDriver {
     
         job.setJarByClass(OrderDriver.class);
         job.setMapperClass(OrderMapper.class);
+        job.setCombinerClass(OrderCombiner.class); //Combiner
         job.setReducerClass(OrderReducer.class);
 
         job.setMapOutputKeyClass(Text.class);
